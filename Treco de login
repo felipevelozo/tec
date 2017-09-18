@@ -1,0 +1,19 @@
+<div>
+
+<form style="min-width: 250px;">
+<fieldset>
+
+<label for="R.A">
+
+R.A </label><input name"R.A" id="R.A"><br/>
+<label for="Senha">
+Senha <input name"Senha" id="Senha" type="Senha"password"></label>
+<button id="btn-login" type="button" class="btn btn-primary"><strong>Login</strong></button><br/></label>
+
+Lembrar-me <input type="checkbox" value "sim" name="lembrar"/>
+
+<a class="Esenha" href="esqueceu-a-senha">Esqueceu a senha?</a>
+
+</fieldset>
+</form>
+</div> 	
